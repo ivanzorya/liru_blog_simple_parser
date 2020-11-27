@@ -34,3 +34,7 @@ for item in result:
     )
     i += 1
 f.close()
+
+
+if __name__ == '__main__':
+    main()
